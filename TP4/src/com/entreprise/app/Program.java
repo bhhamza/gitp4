@@ -36,6 +36,7 @@ public class Program {
                 System.out.println(
                     "Embauche de " + noms[i] + " : " + salaire
                 );
+                
 
             } catch (NumberFormatException e) {
                 System.out.println(
